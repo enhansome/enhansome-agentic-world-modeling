@@ -17,7 +17,7 @@
                 "last_commit": "2026-03-23T10:13:05Z",
                 "owner": "facebookresearch",
                 "repo": "vjepa2",
-                "stars": 4500
+                "stars": 4504
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-05-26T17:22:05Z",
                 "owner": "lucas-maes",
                 "repo": "le-wm",
-                "stars": 4329
+                "stars": 4333
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2025-02-27T23:15:27Z",
                 "owner": "facebookresearch",
                 "repo": "jepa",
-                "stars": 4097
+                "stars": 4099
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-05-25T06:40:27Z",
                 "owner": "danijar",
                 "repo": "dreamerv3",
-                "stars": 3690
+                "stars": 3697
               }
             },
             {
@@ -137,7 +137,7 @@
                 "last_commit": "2026-07-13T22:26:51Z",
                 "owner": "nicklashansen",
                 "repo": "tdmpc2",
-                "stars": 930
+                "stars": 931
               }
             },
             {
@@ -152,7 +152,7 @@
                 "last_commit": "2026-07-17T22:33:32Z",
                 "owner": "facebookresearch",
                 "repo": "eb_jepa",
-                "stars": 759
+                "stars": 761
               }
             },
             {
@@ -197,7 +197,7 @@
                 "last_commit": "2025-03-24T19:47:23Z",
                 "owner": "gaoyuezhou",
                 "repo": "dino_wm",
-                "stars": 554
+                "stars": 555
               }
             },
             {
@@ -242,7 +242,7 @@
                 "last_commit": "2023-11-25T22:18:43Z",
                 "owner": "nicklashansen",
                 "repo": "tdmpc",
-                "stars": 522
+                "stars": 523
               }
             },
             {
@@ -277,6 +277,21 @@
             },
             {
               "node_type": "item",
+              "title": "What Drives Success in Physical Planning with Joint-Embedding Predictive World Models?",
+              "description": "(arXiv, 2025)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1108428983,
+                "language": "Python",
+                "last_commit": "2026-04-11T14:00:02Z",
+                "owner": "facebookresearch",
+                "repo": "jepa-wms",
+                "stars": 457
+              }
+            },
+            {
+              "node_type": "item",
               "title": "DayDreamer: World Models for Physical Robot Learning",
               "description": "(CoRL, 2022)",
               "children": [],
@@ -288,21 +303,6 @@
                 "owner": "danijar",
                 "repo": "daydreamer",
                 "stars": 456
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "What Drives Success in Physical Planning with Joint-Embedding Predictive World Models?",
-              "description": "(arXiv, 2025)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1108428983,
-                "language": "Python",
-                "last_commit": "2026-04-11T14:00:02Z",
-                "owner": "facebookresearch",
-                "repo": "jepa-wms",
-                "stars": 454
               }
             },
             {
@@ -332,7 +332,7 @@
                 "last_commit": "2026-06-30T08:40:51Z",
                 "owner": "Mondo-Robotics",
                 "repo": "DiT4DiT",
-                "stars": 429
+                "stars": 430
               }
             },
             {
@@ -587,7 +587,7 @@
                 "last_commit": "2025-11-26T15:15:25Z",
                 "owner": "Sta8is",
                 "repo": "DINO-Foresight",
-                "stars": 170
+                "stars": 171
               }
             },
             {
@@ -647,7 +647,7 @@
                 "last_commit": "2026-07-19T16:06:17Z",
                 "owner": "agentic-learning-ai-lab",
                 "repo": "adajepa",
-                "stars": 159
+                "stars": 160
               }
             },
             {
@@ -767,7 +767,7 @@
                 "last_commit": "2026-07-16T21:38:39Z",
                 "owner": "HadiZayer",
                 "repo": "masked-visual-actions",
-                "stars": 98
+                "stars": 99
               }
             },
             {
@@ -782,7 +782,7 @@
                 "last_commit": "2026-07-17T16:25:09Z",
                 "owner": "facebookresearch",
                 "repo": "WMReward",
-                "stars": 91
+                "stars": 93
               }
             },
             {
@@ -1289,7 +1289,7 @@
                 "archived": false,
                 "id": 1232701426,
                 "language": "Python",
-                "last_commit": "2026-08-14T10:58:21Z",
+                "last_commit": "2026-08-23T22:59:52Z",
                 "owner": "mll-lab-nu",
                 "repo": "ViewAgent",
                 "stars": 23
@@ -1327,6 +1327,21 @@
             },
             {
               "node_type": "item",
+              "title": "Auto-JEPA: A Latent World Model of Continuous Intent for End-to-End Autonomous Driving",
+              "description": "(arXiv, 2026)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1310768399,
+                "language": "Python",
+                "last_commit": "2026-07-24T09:43:22Z",
+                "owner": "NoctYang",
+                "repo": "Auto-JEPA",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
               "title": "Metis: A Generalizable and Efficient World-Action Model for Autonomous Driving and Urban Navigation",
               "description": "(arXiv, 2026)",
               "children": [],
@@ -1342,21 +1357,6 @@
             },
             {
               "node_type": "item",
-              "title": "Auto-JEPA: A Latent World Model of Continuous Intent for End-to-End Autonomous Driving",
-              "description": "(arXiv, 2026)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1310768399,
-                "language": "Python",
-                "last_commit": "2026-07-24T09:43:22Z",
-                "owner": "NoctYang",
-                "repo": "Auto-JEPA",
-                "stars": 14
-              }
-            },
-            {
-              "node_type": "item",
               "title": "Time-Aware World Model for Adaptive Prediction and Control",
               "description": "(ICML, 2025)",
               "children": [],
@@ -1368,6 +1368,21 @@
                 "owner": "anh-nn01",
                 "repo": "Time-Aware-World-Model",
                 "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DREAM-Chunk: Reactive Action Chunking with Latent World Model",
+              "description": "(arXiv, 2026)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1273497088,
+                "language": "Python",
+                "last_commit": "2026-06-18T16:24:37Z",
+                "owner": "wenxichen2746",
+                "repo": "DREAM-Chunk-Kinetix",
+                "stars": 12
               }
             },
             {
@@ -1398,21 +1413,6 @@
                 "owner": "baheytharwat",
                 "repo": "lawm",
                 "stars": 12
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "DREAM-Chunk: Reactive Action Chunking with Latent World Model",
-              "description": "(arXiv, 2026)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1273497088,
-                "language": "Python",
-                "last_commit": "2026-06-18T16:24:37Z",
-                "owner": "wenxichen2746",
-                "repo": "DREAM-Chunk-Kinetix",
-                "stars": 11
               }
             },
             {
@@ -1704,7 +1704,7 @@
                 "last_commit": "2024-06-18T01:53:49Z",
                 "owner": "CompVis",
                 "repo": "stable-diffusion",
-                "stars": 73337
+                "stars": 73341
               }
             },
             {
@@ -1719,7 +1719,7 @@
                 "last_commit": "2026-06-03T15:32:00Z",
                 "owner": "facebookresearch",
                 "repo": "dinov2",
-                "stars": 13253
+                "stars": 13258
               }
             },
             {
@@ -1764,7 +1764,7 @@
                 "last_commit": "2026-05-25T06:40:27Z",
                 "owner": "danijar",
                 "repo": "dreamerv3",
-                "stars": 3690
+                "stars": 3697
               }
             },
             {
@@ -1794,7 +1794,7 @@
                 "last_commit": "2024-12-06T16:45:28Z",
                 "owner": "eloialonso",
                 "repo": "diamond",
-                "stars": 2095
+                "stars": 2096
               }
             },
             {
@@ -1809,7 +1809,7 @@
                 "last_commit": "2025-09-03T21:51:23Z",
                 "owner": "openai",
                 "repo": "Video-Pre-Training",
-                "stars": 1732
+                "stars": 1733
               }
             },
             {
@@ -1884,7 +1884,7 @@
                 "last_commit": "2022-12-08T05:13:20Z",
                 "owner": "MishaLaskin",
                 "repo": "vqvae",
-                "stars": 905
+                "stars": 906
               }
             },
             {
@@ -1899,7 +1899,7 @@
                 "last_commit": "2024-10-14T15:36:18Z",
                 "owner": "eloialonso",
                 "repo": "iris",
-                "stars": 899
+                "stars": 900
               }
             },
             {
@@ -1944,7 +1944,7 @@
                 "last_commit": "2026-04-15T18:36:24Z",
                 "owner": "galilai-group",
                 "repo": "llm-jepa",
-                "stars": 327
+                "stars": 328
               }
             },
             {
@@ -2034,7 +2034,7 @@
                 "last_commit": "2024-06-04T14:32:28Z",
                 "owner": "chandar-lab",
                 "repo": "Recall2Imagine",
-                "stars": 83
+                "stars": 84
               }
             },
             {
@@ -2221,7 +2221,7 @@
                 "last_commit": "2026-06-17T13:51:27Z",
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15161
+                "stars": 15165
               }
             },
             {
@@ -2236,7 +2236,7 @@
                 "last_commit": "2026-04-22T17:58:21Z",
                 "owner": "google-deepmind",
                 "repo": "alphafold",
-                "stars": 14801
+                "stars": 14804
               }
             },
             {
@@ -2251,7 +2251,7 @@
                 "last_commit": "2026-08-19T15:43:52Z",
                 "owner": "google-deepmind",
                 "repo": "alphafold3",
-                "stars": 8485
+                "stars": 8487
               }
             },
             {
@@ -2281,7 +2281,7 @@
                 "last_commit": "2024-02-15T15:28:32Z",
                 "owner": "RosettaCommons",
                 "repo": "RoseTTAFold",
-                "stars": 2255
+                "stars": 2256
               }
             },
             {
@@ -2366,10 +2366,10 @@
                 "archived": false,
                 "id": 712225112,
                 "language": "Python",
-                "last_commit": "2026-08-21T21:50:32Z",
+                "last_commit": "2026-08-23T09:22:18Z",
                 "owner": "Genesis-Embodied-AI",
                 "repo": "genesis-world",
-                "stars": 29792
+                "stars": 29794
               }
             },
             {
@@ -2399,7 +2399,7 @@
                 "last_commit": "2025-10-16T01:28:50Z",
                 "owner": "lllyasviel",
                 "repo": "FramePack",
-                "stars": 17227
+                "stars": 17226
               }
             },
             {
@@ -2414,7 +2414,7 @@
                 "last_commit": "2026-06-17T13:51:27Z",
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15161
+                "stars": 15165
               }
             },
             {
@@ -2426,10 +2426,10 @@
                 "archived": false,
                 "id": 400501136,
                 "language": "C++",
-                "last_commit": "2026-08-22T12:20:15Z",
+                "last_commit": "2026-08-24T01:55:24Z",
                 "owner": "google-deepmind",
                 "repo": "mujoco",
-                "stars": 14634
+                "stars": 14642
               }
             },
             {
@@ -2444,7 +2444,7 @@
                 "last_commit": "2026-08-22T03:51:25Z",
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 11593
+                "stars": 11600
               }
             },
             {
@@ -2459,7 +2459,7 @@
                 "last_commit": "2026-08-22T03:51:25Z",
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 11593
+                "stars": 11600
               }
             },
             {
@@ -2471,10 +2471,10 @@
                 "archived": false,
                 "id": 567038244,
                 "language": "Python",
-                "last_commit": "2026-08-22T23:15:26Z",
+                "last_commit": "2026-08-24T02:32:49Z",
                 "owner": "isaac-sim",
                 "repo": "IsaacLab",
-                "stars": 7938
+                "stars": 7942
               }
             },
             {
@@ -2489,7 +2489,7 @@
                 "last_commit": "2026-08-20T14:19:29Z",
                 "owner": "google-deepmind",
                 "repo": "dm_control",
-                "stars": 4669
+                "stars": 4670
               }
             },
             {
@@ -2504,7 +2504,7 @@
                 "last_commit": "2026-07-09T10:39:39Z",
                 "owner": "Robbyant",
                 "repo": "lingbot-world",
-                "stars": 4379
+                "stars": 4385
               }
             },
             {
@@ -2519,7 +2519,7 @@
                 "last_commit": "2026-06-17T07:06:35Z",
                 "owner": "SandAI-org",
                 "repo": "MAGI-1",
-                "stars": 3769
+                "stars": 3770
               }
             },
             {
@@ -2579,7 +2579,7 @@
                 "last_commit": "2026-04-15T17:27:25Z",
                 "owner": "Tencent-Hunyuan",
                 "repo": "HunyuanWorld-1.0",
-                "stars": 2915
+                "stars": 2916
               }
             },
             {
@@ -2594,7 +2594,7 @@
                 "last_commit": "2026-08-16T18:22:35Z",
                 "owner": "open-gigaai",
                 "repo": "giga-brain-0",
-                "stars": 2585
+                "stars": 2587
               }
             },
             {
@@ -2609,7 +2609,7 @@
                 "last_commit": "2026-04-19T06:40:39Z",
                 "owner": "dreamzero0",
                 "repo": "dreamzero",
-                "stars": 2578
+                "stars": 2581
               }
             },
             {
@@ -2624,7 +2624,7 @@
                 "last_commit": "2026-08-12T16:15:12Z",
                 "owner": "Tencent-Hunyuan",
                 "repo": "HY-World-2.0",
-                "stars": 2556
+                "stars": 2561
               }
             },
             {
@@ -2639,7 +2639,7 @@
                 "last_commit": "2026-01-12T08:39:22Z",
                 "owner": "baaivision",
                 "repo": "Emu3",
-                "stars": 2439
+                "stars": 2438
               }
             },
             {
@@ -2654,7 +2654,7 @@
                 "last_commit": "2026-07-20T17:07:42Z",
                 "owner": "nv-tlabs",
                 "repo": "lyra",
-                "stars": 2252
+                "stars": 2253
               }
             },
             {
@@ -2684,7 +2684,7 @@
                 "last_commit": "2026-08-05T19:45:32Z",
                 "owner": "NVlabs",
                 "repo": "alpamayo",
-                "stars": 2001
+                "stars": 2004
               }
             },
             {
@@ -2699,7 +2699,7 @@
                 "last_commit": "2026-08-19T07:22:24Z",
                 "owner": "boundless-large-model",
                 "repo": "boundless-world-model",
-                "stars": 1821
+                "stars": 1822
               }
             },
             {
@@ -2714,7 +2714,7 @@
                 "last_commit": "2026-07-09T16:02:38Z",
                 "owner": "Robbyant",
                 "repo": "lingbot-va",
-                "stars": 1792
+                "stars": 1798
               }
             },
             {
@@ -2744,7 +2744,7 @@
                 "last_commit": "2026-08-21T20:45:34Z",
                 "owner": "robocasa",
                 "repo": "robocasa",
-                "stars": 1663
+                "stars": 1667
               }
             },
             {
@@ -2759,7 +2759,7 @@
                 "last_commit": "2026-06-10T07:10:23Z",
                 "owner": "Tencent-Hunyuan",
                 "repo": "HY-WorldPlay",
-                "stars": 1583
+                "stars": 1584
               }
             },
             {
@@ -2774,7 +2774,22 @@
                 "last_commit": "2026-07-21T06:25:27Z",
                 "owner": "open-gigaai",
                 "repo": "giga-world-policy",
-                "stars": 1395
+                "stars": 1396
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Fast-WAM: Do World Action Models Need Test-time Future Imagination?",
+              "description": "(arXiv, 2026)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1184279068,
+                "language": "Python",
+                "last_commit": "2026-08-20T06:49:41Z",
+                "owner": "yuantianyuan01",
+                "repo": "FastWAM",
+                "stars": 1341
               }
             },
             {
@@ -2790,21 +2805,6 @@
                 "owner": "PKU-YuanGroup",
                 "repo": "MagicTime",
                 "stars": 1338
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Fast-WAM: Do World Action Models Need Test-time Future Imagination?",
-              "description": "(arXiv, 2026)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1184279068,
-                "language": "Python",
-                "last_commit": "2026-08-20T06:49:41Z",
-                "owner": "yuantianyuan01",
-                "repo": "FastWAM",
-                "stars": 1335
               }
             },
             {
@@ -2834,7 +2834,7 @@
                 "last_commit": "2026-07-06T02:31:32Z",
                 "owner": "buoyancy99",
                 "repo": "diffusion-forcing",
-                "stars": 1287
+                "stars": 1288
               }
             },
             {
@@ -2939,7 +2939,7 @@
                 "last_commit": "2026-07-23T05:51:04Z",
                 "owner": "thu-ml",
                 "repo": "Causal-Forcing",
-                "stars": 931
+                "stars": 932
               }
             },
             {
@@ -2954,7 +2954,7 @@
                 "last_commit": "2026-04-28T10:54:42Z",
                 "owner": "ziangcao0312",
                 "repo": "PhysX-Anything",
-                "stars": 926
+                "stars": 927
               }
             },
             {
@@ -3014,7 +3014,7 @@
                 "last_commit": "2026-08-20T06:30:14Z",
                 "owner": "AlayaLab",
                 "repo": "AlayaWorld",
-                "stars": 833
+                "stars": 836
               }
             },
             {
@@ -3029,7 +3029,7 @@
                 "last_commit": "2026-08-20T06:30:14Z",
                 "owner": "AlayaLab",
                 "repo": "AlayaWorld",
-                "stars": 833
+                "stars": 836
               }
             },
             {
@@ -3154,6 +3154,21 @@
             },
             {
               "node_type": "item",
+              "title": "ABot-M0.5: Unified Mobility-and-Manipulation World Action Model",
+              "description": "(arXiv, 2026)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1154460916,
+                "language": "Python",
+                "last_commit": "2026-07-22T04:30:18Z",
+                "owner": "amap-cvlab",
+                "repo": "ABot-Manipulation",
+                "stars": 683
+              }
+            },
+            {
+              "node_type": "item",
               "title": "Yume: An Interactive World Generation Model",
               "description": "(arXiv, 2025)",
               "children": [],
@@ -3165,21 +3180,6 @@
                 "owner": "stdstu12",
                 "repo": "YUME",
                 "stars": 683
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "ABot-M0.5: Unified Mobility-and-Manipulation World Action Model",
-              "description": "(arXiv, 2026)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1154460916,
-                "language": "Python",
-                "last_commit": "2026-07-22T04:30:18Z",
-                "owner": "amap-cvlab",
-                "repo": "ABot-Manipulation",
-                "stars": 681
               }
             },
             {
@@ -3374,7 +3374,7 @@
                 "last_commit": "2026-05-17T21:45:41Z",
                 "owner": "NVlabs",
                 "repo": "PointWorld",
-                "stars": 504
+                "stars": 505
               }
             },
             {
@@ -3419,7 +3419,7 @@
                 "last_commit": "2026-07-10T22:54:08Z",
                 "owner": "Jianghanxiao",
                 "repo": "PhysTwin",
-                "stars": 446
+                "stars": 447
               }
             },
             {
@@ -3629,7 +3629,7 @@
                 "last_commit": "2026-07-06T12:07:09Z",
                 "owner": "OpenDriveLab",
                 "repo": "RISE",
-                "stars": 341
+                "stars": 342
               }
             },
             {
@@ -3749,7 +3749,7 @@
                 "last_commit": "2026-06-04T19:42:46Z",
                 "owner": "WangYixuan12",
                 "repo": "interactive_world_sim",
-                "stars": 288
+                "stars": 289
               }
             },
             {
@@ -3959,7 +3959,7 @@
                 "last_commit": "2026-07-17T19:53:11Z",
                 "owner": "amazon-far",
                 "repo": "deltatok",
-                "stars": 237
+                "stars": 239
               }
             },
             {
@@ -4016,10 +4016,10 @@
                 "archived": false,
                 "id": 1082733610,
                 "language": "Python",
-                "last_commit": "2026-08-22T15:43:39Z",
+                "last_commit": "2026-08-24T03:46:41Z",
                 "owner": "DexForce",
                 "repo": "EmbodiChain",
-                "stars": 211
+                "stars": 212
               }
             },
             {
@@ -4174,6 +4174,21 @@
             },
             {
               "node_type": "item",
+              "title": "Alaya-EVOKE: From Linear-Scaling Supervision to Endless World",
+              "description": "(arXiv, 2026)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1332185853,
+                "language": "Python",
+                "last_commit": "2026-08-15T10:27:56Z",
+                "owner": "AlayaLab",
+                "repo": "Evoke",
+                "stars": 186
+              }
+            },
+            {
+              "node_type": "item",
               "title": "Unified Diffusion VLA: Vision-Language-Action Model via Joint Discrete Denoising Diffusion Process",
               "description": "(arXiv, 2025)",
               "children": [],
@@ -4241,7 +4256,7 @@
                 "archived": false,
                 "id": 1005863229,
                 "language": "Python",
-                "last_commit": "2026-03-23T02:51:59Z",
+                "last_commit": "2026-08-23T22:59:43Z",
                 "owner": "mll-lab-nu",
                 "repo": "MindCube",
                 "stars": 168
@@ -4339,21 +4354,6 @@
             },
             {
               "node_type": "item",
-              "title": "Alaya-EVOKE: From Linear-Scaling Supervision to Endless World",
-              "description": "(arXiv, 2026)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1332185853,
-                "language": "Python",
-                "last_commit": "2026-08-15T10:27:56Z",
-                "owner": "AlayaLab",
-                "repo": "Evoke",
-                "stars": 162
-              }
-            },
-            {
-              "node_type": "item",
               "title": "Force Prompting: Video Generation Models Can Learn and Generalize Physics-based Control Signals",
               "description": "(arXiv, 2025)",
               "children": [],
@@ -4394,7 +4394,7 @@
                 "last_commit": "2026-08-20T03:15:19Z",
                 "owner": "H-EmbodVis",
                 "repo": "SimWAM",
-                "stars": 153
+                "stars": 154
               }
             },
             {
@@ -4594,6 +4594,21 @@
             },
             {
               "node_type": "item",
+              "title": "Flex-π: A Multi-Stream World-Action Model with Compute Flexibility",
+              "description": "(arXiv, 2026)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1331763167,
+                "language": "Python",
+                "last_commit": "2026-08-23T09:04:44Z",
+                "owner": "geyan21",
+                "repo": "flex-pi",
+                "stars": 124
+              }
+            },
+            {
+              "node_type": "item",
               "title": "Decoupled Diffusion Sparks Adaptive Scene Generation",
               "description": "(ICCV, 2025)",
               "children": [],
@@ -4729,21 +4744,6 @@
             },
             {
               "node_type": "item",
-              "title": "Flex-π: A Multi-Stream World-Action Model with Compute Flexibility",
-              "description": "(arXiv, 2026)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1331763167,
-                "language": "Python",
-                "last_commit": "2026-08-21T00:48:24Z",
-                "owner": "geyan21",
-                "repo": "flex-pi",
-                "stars": 112
-              }
-            },
-            {
-              "node_type": "item",
               "title": "ORV: 4D Occupancy-centric Robot Video Generation",
               "description": "(arXiv, 2025)",
               "children": [],
@@ -4859,7 +4859,7 @@
                 "last_commit": "2026-08-14T02:07:47Z",
                 "owner": "teee000",
                 "repo": "LiLa-WAM",
-                "stars": 97
+                "stars": 100
               }
             },
             {
@@ -5669,7 +5669,7 @@
                 "last_commit": "2026-08-08T15:01:01Z",
                 "owner": "hustvl",
                 "repo": "FasterWAM",
-                "stars": 43
+                "stars": 44
               }
             },
             {
@@ -6259,21 +6259,6 @@
             },
             {
               "node_type": "item",
-              "title": "An Efficient and Multi-Modal Navigation System with One-Step World Model",
-              "description": "(arXiv, 2026)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1135404187,
-                "language": "Python",
-                "last_commit": "2026-03-13T07:18:40Z",
-                "owner": "robotnav-bot",
-                "repo": "NOW",
-                "stars": 18
-              }
-            },
-            {
-              "node_type": "item",
               "title": "Sensorimotor World Models: Perception for Action via Inverse Dynamics",
               "description": "(arXiv, 2026)",
               "children": [],
@@ -6284,6 +6269,21 @@
                 "last_commit": "2026-07-29T07:55:50Z",
                 "owner": "petr-ivashkov",
                 "repo": "sensorimotor-world-model",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "An Efficient and Multi-Modal Navigation System with One-Step World Model",
+              "description": "(arXiv, 2026)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1135404187,
+                "language": "Python",
+                "last_commit": "2026-03-13T07:18:40Z",
+                "owner": "robotnav-bot",
+                "repo": "NOW",
                 "stars": 18
               }
             },
@@ -6771,7 +6771,7 @@
                 "last_commit": "2026-01-21T10:12:33Z",
                 "owner": "FoundationAgents",
                 "repo": "MetaGPT",
-                "stars": 69950
+                "stars": 69977
               }
             },
             {
@@ -6786,7 +6786,7 @@
                 "last_commit": "2024-08-05T21:38:56Z",
                 "owner": "joonspk-research",
                 "repo": "generative_agents",
-                "stars": 21969
+                "stars": 21971
               }
             },
             {
@@ -6801,7 +6801,7 @@
                 "last_commit": "2026-08-17T22:33:19Z",
                 "owner": "SWE-agent",
                 "repo": "SWE-agent",
-                "stars": 20109
+                "stars": 20114
               }
             },
             {
@@ -6816,7 +6816,7 @@
                 "last_commit": "2026-01-27T04:57:26Z",
                 "owner": "bytedance",
                 "repo": "UI-TARS",
-                "stars": 11371
+                "stars": 11375
               }
             },
             {
@@ -6846,7 +6846,7 @@
                 "last_commit": "2024-04-03T18:51:36Z",
                 "owner": "MineDojo",
                 "repo": "Voyager",
-                "stars": 7154
+                "stars": 7157
               }
             },
             {
@@ -6861,7 +6861,7 @@
                 "last_commit": "2026-07-09T10:39:39Z",
                 "owner": "Robbyant",
                 "repo": "lingbot-world",
-                "stars": 4379
+                "stars": 4385
               }
             },
             {
@@ -6876,7 +6876,7 @@
                 "last_commit": "2025-09-12T03:31:30Z",
                 "owner": "guandeh17",
                 "repo": "Self-Forcing",
-                "stars": 3482
+                "stars": 3485
               }
             },
             {
@@ -6891,7 +6891,7 @@
                 "last_commit": "2026-04-15T17:27:25Z",
                 "owner": "Tencent-Hunyuan",
                 "repo": "HunyuanWorld-1.0",
-                "stars": 2915
+                "stars": 2916
               }
             },
             {
@@ -6903,7 +6903,7 @@
                 "archived": false,
                 "id": 922278962,
                 "language": "Python",
-                "last_commit": "2026-07-24T19:20:04Z",
+                "last_commit": "2026-08-23T22:59:46Z",
                 "owner": "mll-lab-nu",
                 "repo": "RAGEN",
                 "stars": 2775
@@ -6921,7 +6921,7 @@
                 "last_commit": "2026-08-07T02:35:21Z",
                 "owner": "NVlabs",
                 "repo": "LongLive",
-                "stars": 2559
+                "stars": 2561
               }
             },
             {
@@ -6936,7 +6936,7 @@
                 "last_commit": "2026-08-21T12:25:45Z",
                 "owner": "amap-cvlab",
                 "repo": "ABot-World",
-                "stars": 2461
+                "stars": 2465
               }
             },
             {
@@ -6966,7 +6966,7 @@
                 "last_commit": "2026-01-25T21:05:37Z",
                 "owner": "MineDojo",
                 "repo": "NitroGen",
-                "stars": 2166
+                "stars": 2167
               }
             },
             {
@@ -6981,7 +6981,7 @@
                 "last_commit": "2026-04-24T07:16:50Z",
                 "owner": "showlab",
                 "repo": "ShowUI",
-                "stars": 1891
+                "stars": 1892
               }
             },
             {
@@ -6996,7 +6996,7 @@
                 "last_commit": "2026-06-10T07:10:23Z",
                 "owner": "Tencent-Hunyuan",
                 "repo": "HY-WorldPlay",
-                "stars": 1583
+                "stars": 1584
               }
             },
             {
@@ -7011,7 +7011,7 @@
                 "last_commit": "2024-11-04T16:24:29Z",
                 "owner": "altera-al",
                 "repo": "project-sid",
-                "stars": 1356
+                "stars": 1357
               }
             },
             {
@@ -7026,7 +7026,7 @@
                 "last_commit": "2026-07-20T11:52:07Z",
                 "owner": "QwenLM",
                 "repo": "Qwen-AgentWorld",
-                "stars": 964
+                "stars": 965
               }
             },
             {
@@ -7056,7 +7056,7 @@
                 "last_commit": "2026-08-20T06:30:14Z",
                 "owner": "AlayaLab",
                 "repo": "AlayaWorld",
-                "stars": 833
+                "stars": 836
               }
             },
             {
@@ -7101,7 +7101,7 @@
                 "last_commit": "2024-09-06T04:00:38Z",
                 "owner": "princeton-nlp",
                 "repo": "WebShop",
-                "stars": 584
+                "stars": 586
               }
             },
             {
@@ -7116,7 +7116,7 @@
                 "last_commit": "2026-08-03T10:29:39Z",
                 "owner": "mira-wm",
                 "repo": "mira",
-                "stars": 506
+                "stars": 508
               }
             },
             {
@@ -7143,7 +7143,7 @@
                 "archived": false,
                 "id": 942934124,
                 "language": "Python",
-                "last_commit": "2026-08-15T22:56:43Z",
+                "last_commit": "2026-08-23T22:59:49Z",
                 "owner": "mll-lab-nu",
                 "repo": "VAGEN",
                 "stars": 493
@@ -7176,7 +7176,7 @@
                 "last_commit": "2025-10-31T09:55:48Z",
                 "owner": "TencentARC",
                 "repo": "RollingForcing",
-                "stars": 455
+                "stars": 456
               }
             },
             {
@@ -7191,7 +7191,7 @@
                 "last_commit": "2026-05-28T21:36:00Z",
                 "owner": "Snowflake-Labs",
                 "repo": "agent-world-model",
-                "stars": 432
+                "stars": 433
               }
             },
             {
@@ -7251,7 +7251,7 @@
                 "last_commit": "2026-02-12T04:40:24Z",
                 "owner": "AMAP-ML",
                 "repo": "Code2World",
-                "stars": 309
+                "stars": 310
               }
             },
             {
@@ -7386,7 +7386,7 @@
                 "last_commit": "2024-08-11T20:53:58Z",
                 "owner": "GuanSuns",
                 "repo": "LLMs-World-Models-for-Planning",
-                "stars": 108
+                "stars": 109
               }
             },
             {
@@ -7541,6 +7541,21 @@
             },
             {
               "node_type": "item",
+              "title": "Emergence of Social Norms in Large Language Model-based Agent Societies",
+              "description": "(arXiv, 2024)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 767472695,
+                "language": "Python",
+                "last_commit": "2025-10-22T09:57:30Z",
+                "owner": "sxswz213",
+                "repo": "CRSEC",
+                "stars": 49
+              }
+            },
+            {
+              "node_type": "item",
               "title": "SWE-World: Building Software Engineering Agents in Docker-Free Environments",
               "description": "(arXiv, 2026)",
               "children": [],
@@ -7552,21 +7567,6 @@
                 "owner": "RUCAIBox",
                 "repo": "SWE-World",
                 "stars": 49
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Emergence of Social Norms in Large Language Model-based Agent Societies",
-              "description": "(arXiv, 2024)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 767472695,
-                "language": "Python",
-                "last_commit": "2025-10-22T09:57:30Z",
-                "owner": "sxswz213",
-                "repo": "CRSEC",
-                "stars": 48
               }
             },
             {
@@ -7611,7 +7611,7 @@
                 "last_commit": "2026-08-15T06:59:03Z",
                 "owner": "AlayaLab",
                 "repo": "HelloWorld",
-                "stars": 42
+                "stars": 44
               }
             },
             {
@@ -7858,7 +7858,7 @@
                 "last_commit": "2026-07-24T08:01:27Z",
                 "owner": "OpenBMB",
                 "repo": "ChatDev",
-                "stars": 34100
+                "stars": 34107
               }
             },
             {
@@ -7873,7 +7873,7 @@
                 "last_commit": "2024-08-05T21:38:56Z",
                 "owner": "joonspk-research",
                 "repo": "generative_agents",
-                "stars": 21969
+                "stars": 21971
               }
             },
             {
@@ -7888,7 +7888,7 @@
                 "last_commit": "2026-08-20T08:02:32Z",
                 "owner": "camel-ai",
                 "repo": "oasis",
-                "stars": 5045
+                "stars": 5048
               }
             },
             {
@@ -7948,7 +7948,7 @@
                 "last_commit": "2024-11-04T16:24:29Z",
                 "owner": "altera-al",
                 "repo": "project-sid",
-                "stars": 1356
+                "stars": 1357
               }
             },
             {
@@ -7975,7 +7975,7 @@
                 "archived": false,
                 "id": 386577599,
                 "language": "Python",
-                "last_commit": "2026-08-21T20:41:43Z",
+                "last_commit": "2026-08-23T10:51:30Z",
                 "owner": "google-deepmind",
                 "repo": "meltingpot",
                 "stars": 863
@@ -7993,7 +7993,7 @@
                 "last_commit": "2024-10-29T04:28:07Z",
                 "owner": "choosewhatulike",
                 "repo": "trainable-agents",
-                "stars": 644
+                "stars": 645
               }
             },
             {
@@ -8023,7 +8023,7 @@
                 "last_commit": "2026-06-05T17:23:42Z",
                 "owner": "sotopia-lab",
                 "repo": "sotopia",
-                "stars": 328
+                "stars": 329
               }
             },
             {
@@ -8038,7 +8038,7 @@
                 "last_commit": "2026-02-08T12:20:36Z",
                 "owner": "FudanDISC",
                 "repo": "SocioVerse",
-                "stars": 208
+                "stars": 209
               }
             },
             {
@@ -8128,7 +8128,7 @@
                 "last_commit": "2025-01-19T16:33:56Z",
                 "owner": "giorgiopiatti",
                 "repo": "GovSim",
-                "stars": 81
+                "stars": 82
               }
             },
             {
@@ -8158,7 +8158,22 @@
                 "last_commit": "2025-10-22T09:57:30Z",
                 "owner": "sxswz213",
                 "repo": "CRSEC",
-                "stars": 48
+                "stars": 49
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HelloWorld: Enabling Socially Interactive Characters in Video World Models",
+              "description": "(arXiv, 2026)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1323600817,
+                "language": "Python",
+                "last_commit": "2026-08-15T06:59:03Z",
+                "owner": "AlayaLab",
+                "repo": "HelloWorld",
+                "stars": 44
               }
             },
             {
@@ -8174,21 +8189,6 @@
                 "owner": "vsamuel2003",
                 "repo": "PersonaGym",
                 "stars": 43
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "HelloWorld: Enabling Socially Interactive Characters in Video World Models",
-              "description": "(arXiv, 2026)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1323600817,
-                "language": "Python",
-                "last_commit": "2026-08-15T06:59:03Z",
-                "owner": "AlayaLab",
-                "repo": "HelloWorld",
-                "stars": 42
               }
             },
             {
@@ -8435,7 +8435,7 @@
                 "last_commit": "2025-12-19T07:46:21Z",
                 "owner": "SakanaAI",
                 "repo": "AI-Scientist",
-                "stars": 14432
+                "stars": 14436
               }
             },
             {
@@ -8450,7 +8450,7 @@
                 "last_commit": "2026-08-11T12:29:00Z",
                 "owner": "google-deepmind",
                 "repo": "weathernext",
-                "stars": 7581
+                "stars": 7584
               }
             },
             {
@@ -8465,7 +8465,7 @@
                 "last_commit": "2026-08-06T00:52:41Z",
                 "owner": "neuraloperator",
                 "repo": "neuraloperator",
-                "stars": 3821
+                "stars": 3823
               }
             },
             {
@@ -8480,7 +8480,7 @@
                 "last_commit": "2024-01-12T04:31:28Z",
                 "owner": "198808xc",
                 "repo": "Pangu-Weather",
-                "stars": 1385
+                "stars": 1386
               }
             },
             {
@@ -8495,7 +8495,7 @@
                 "last_commit": "2026-08-19T20:14:02Z",
                 "owner": "microsoft",
                 "repo": "aurora",
-                "stars": 1007
+                "stars": 1008
               }
             },
             {
@@ -8510,7 +8510,7 @@
                 "last_commit": "2026-07-14T16:05:06Z",
                 "owner": "neuralgcm",
                 "repo": "neuralgcm",
-                "stars": 1006
+                "stars": 1007
               }
             },
             {
@@ -8525,7 +8525,7 @@
                 "last_commit": "2026-08-20T16:45:29Z",
                 "owner": "atomistic-machine-learning",
                 "repo": "schnetpack",
-                "stars": 934
+                "stars": 935
               }
             },
             {
@@ -8540,7 +8540,7 @@
                 "last_commit": "2023-09-30T17:02:35Z",
                 "owner": "microsoft",
                 "repo": "ClimaX",
-                "stars": 708
+                "stars": 709
               }
             },
             {
@@ -8585,7 +8585,7 @@
                 "last_commit": "2026-04-14T14:19:02Z",
                 "owner": "lijunxian111",
                 "repo": "ChemVlm",
-                "stars": 90
+                "stars": 91
               }
             },
             {
@@ -8748,7 +8748,7 @@
                 "last_commit": "2026-07-08T03:29:15Z",
                 "owner": "kairos-agi",
                 "repo": "kairos",
-                "stars": 2532
+                "stars": 2553
               }
             },
             {
@@ -8860,7 +8860,7 @@
                 "last_commit": "2026-07-14T14:04:37Z",
                 "owner": "Robbyant",
                 "repo": "lingbot-world-v2",
-                "stars": 1547
+                "stars": 1553
               }
             },
             {
@@ -8875,7 +8875,7 @@
                 "last_commit": "2024-02-05T10:32:18Z",
                 "owner": "google-deepmind",
                 "repo": "funsearch",
-                "stars": 1105
+                "stars": 1108
               }
             },
             {
@@ -8890,7 +8890,7 @@
                 "last_commit": "2026-05-30T14:12:49Z",
                 "owner": "WooooDyy",
                 "repo": "AgentGym",
-                "stars": 830
+                "stars": 832
               }
             },
             {
@@ -8950,7 +8950,7 @@
                 "last_commit": "2026-07-29T17:39:59Z",
                 "owner": "NIMI-research",
                 "repo": "Tycho",
-                "stars": 42
+                "stars": 43
               }
             },
             {
@@ -9032,7 +9032,7 @@
                 "last_commit": "2026-08-18T16:56:24Z",
                 "owner": "tsinghua-fib-lab",
                 "repo": "AgentSociety",
-                "stars": 1218
+                "stars": 1224
               }
             },
             {
@@ -9047,7 +9047,7 @@
                 "last_commit": "2026-02-02T11:48:06Z",
                 "owner": "RUC-GSAI",
                 "repo": "YuLan-OneSim",
-                "stars": 241
+                "stars": 240
               }
             },
             {
@@ -9084,7 +9084,7 @@
                 "last_commit": "2025-12-19T07:46:32Z",
                 "owner": "SakanaAI",
                 "repo": "AI-Scientist-v2",
-                "stars": 7035
+                "stars": 7041
               }
             },
             {
@@ -9099,7 +9099,7 @@
                 "last_commit": "2026-08-17T19:17:40Z",
                 "owner": "snap-stanford",
                 "repo": "Biomni",
-                "stars": 3762
+                "stars": 3764
               }
             },
             {
@@ -9159,7 +9159,7 @@
                 "last_commit": "2024-10-28T09:16:05Z",
                 "owner": "ZonglinY",
                 "repo": "MOOSE",
-                "stars": 46
+                "stars": 47
               }
             },
             {
@@ -9262,7 +9262,7 @@
                 "last_commit": "2026-08-20T14:19:29Z",
                 "owner": "google-deepmind",
                 "repo": "dm_control",
-                "stars": 4669
+                "stars": 4670
               }
             },
             {
@@ -9277,7 +9277,7 @@
                 "last_commit": "2026-07-21T10:16:05Z",
                 "owner": "facebookresearch",
                 "repo": "habitat-sim",
-                "stars": 3796
+                "stars": 3797
               }
             },
             {
@@ -9292,7 +9292,7 @@
                 "last_commit": "2026-05-29T12:31:22Z",
                 "owner": "OpenDriveLab",
                 "repo": "AgiBot-World",
-                "stars": 3149
+                "stars": 3155
               }
             },
             {
@@ -9337,7 +9337,7 @@
                 "last_commit": "2026-08-18T16:53:31Z",
                 "owner": "galilai-group",
                 "repo": "stable-worldmodel",
-                "stars": 2142
+                "stars": 2143
               }
             },
             {
@@ -9382,7 +9382,7 @@
                 "last_commit": "2026-08-20T23:55:41Z",
                 "owner": "StanfordVL",
                 "repo": "BEHAVIOR-1K",
-                "stars": 1646
+                "stars": 1649
               }
             },
             {
@@ -9397,7 +9397,7 @@
                 "last_commit": "2026-03-18T13:35:32Z",
                 "owner": "unitreerobotics",
                 "repo": "unifolm-world-model-action",
-                "stars": 1104
+                "stars": 1105
               }
             },
             {
@@ -9427,7 +9427,7 @@
                 "last_commit": "2025-09-08T08:52:01Z",
                 "owner": "mees",
                 "repo": "calvin",
-                "stars": 970
+                "stars": 971
               }
             },
             {
@@ -9544,7 +9544,7 @@
                 "archived": false,
                 "id": 1246588489,
                 "language": "Python",
-                "last_commit": "2026-08-21T09:39:32Z",
+                "last_commit": "2026-08-24T03:30:00Z",
                 "owner": "meituan-longcat",
                 "repo": "WBench",
                 "stars": 213
@@ -10049,7 +10049,7 @@
                 "last_commit": "2025-03-19T11:01:38Z",
                 "owner": "TencentQQGYLab",
                 "repo": "AppAgent",
-                "stars": 6855
+                "stars": 6856
               }
             },
             {
@@ -10064,7 +10064,7 @@
                 "last_commit": "2026-08-18T23:53:40Z",
                 "owner": "SWE-bench",
                 "repo": "SWE-bench",
-                "stars": 5688
+                "stars": 5694
               }
             },
             {
@@ -10079,7 +10079,7 @@
                 "last_commit": "2026-02-08T17:01:05Z",
                 "owner": "THUDM",
                 "repo": "AgentBench",
-                "stars": 3681
+                "stars": 3685
               }
             },
             {
@@ -10094,7 +10094,7 @@
                 "last_commit": "2026-08-21T09:11:07Z",
                 "owner": "xlang-ai",
                 "repo": "OSWorld",
-                "stars": 3101
+                "stars": 3102
               }
             },
             {
@@ -10124,7 +10124,7 @@
                 "last_commit": "2026-08-18T16:53:31Z",
                 "owner": "galilai-group",
                 "repo": "stable-worldmodel",
-                "stars": 2142
+                "stars": 2143
               }
             },
             {
@@ -10139,7 +10139,7 @@
                 "last_commit": "2025-11-26T21:16:00Z",
                 "owner": "web-arena-x",
                 "repo": "webarena",
-                "stars": 1584
+                "stars": 1585
               }
             },
             {
@@ -10169,7 +10169,7 @@
                 "last_commit": "2025-11-05T00:38:41Z",
                 "owner": "OSU-NLP-Group",
                 "repo": "Mind2Web",
-                "stars": 1020
+                "stars": 1021
               }
             },
             {
@@ -10199,7 +10199,7 @@
                 "last_commit": "2026-07-16T20:18:37Z",
                 "owner": "google-research",
                 "repo": "android_world",
-                "stars": 854
+                "stars": 855
               }
             },
             {
@@ -10244,7 +10244,7 @@
                 "last_commit": "2026-08-20T01:50:16Z",
                 "owner": "UnrealZoo",
                 "repo": "unrealzoo-gym",
-                "stars": 352
+                "stars": 354
               }
             },
             {
@@ -10264,6 +10264,21 @@
             },
             {
               "node_type": "item",
+              "title": "WBench: A Comprehensive Multi-turn Benchmark for Interactive Video World Model Evaluation",
+              "description": "(arXiv, 2026)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1246588489,
+                "language": "Python",
+                "last_commit": "2026-08-24T03:30:00Z",
+                "owner": "meituan-longcat",
+                "repo": "WBench",
+                "stars": 213
+              }
+            },
+            {
+              "node_type": "item",
               "title": "GameWorld: Towards Standardized and Verifiable Evaluation of Multimodal Game Agents",
               "description": "(arXiv, 2026)",
               "children": [],
@@ -10274,22 +10289,7 @@
                 "last_commit": "2026-07-31T13:23:43Z",
                 "owner": "gameworld-project",
                 "repo": "GameWorld",
-                "stars": 213
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "WBench: A Comprehensive Multi-turn Benchmark for Interactive Video World Model Evaluation",
-              "description": "(arXiv, 2026)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1246588489,
-                "language": "Python",
-                "last_commit": "2026-08-21T09:39:32Z",
-                "owner": "meituan-longcat",
-                "repo": "WBench",
-                "stars": 213
+                "stars": 212
               }
             },
             {
@@ -10536,7 +10536,7 @@
                 "last_commit": "2025-05-30T02:18:50Z",
                 "owner": "jonathanmli",
                 "repo": "Avalon-LLM",
-                "stars": 160
+                "stars": 161
               }
             },
             {
@@ -10719,7 +10719,7 @@
             "last_commit": "2025-11-18T06:30:27Z",
             "owner": "tsinghua-fib-lab",
             "repo": "World-Model",
-            "stars": 823
+            "stars": 825
           }
         },
         {
@@ -10731,7 +10731,7 @@
             "archived": false,
             "id": 733566298,
             "language": null,
-            "last_commit": "2026-08-20T15:39:04Z",
+            "last_commit": "2026-08-23T05:36:21Z",
             "owner": "ALEEEHU",
             "repo": "World-Simulator",
             "stars": 383
@@ -10761,10 +10761,10 @@
             "archived": false,
             "id": 1193264999,
             "language": "Python",
-            "last_commit": "2026-08-21T11:08:45Z",
+            "last_commit": "2026-08-23T11:00:29Z",
             "owner": "x-zheng16",
             "repo": "Awesome-Embodied-AI-Safety",
-            "stars": 129
+            "stars": 130
           }
         },
         {
@@ -10817,7 +10817,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T04:04:00.014Z",
+    "last_updated": "2026-08-24T04:08:33.190Z",
     "original_repository": "matrix-agent/awesome-agentic-world-modeling",
     "original_repository_id": 1220263034,
     "original_repository_sha": "52108ea48e0db8eac5aa2809898c659be50b96f4",
