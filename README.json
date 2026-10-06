@@ -21,7 +21,7 @@
                 "open_issues": 95,
                 "owner": "facebookresearch",
                 "repo": "vjepa2",
-                "stars": 4722,
+                "stars": 4723,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:27:17.734Z"
@@ -894,7 +894,7 @@
                 "open_issues": 1,
                 "owner": "Gen-Verse",
                 "repo": "JEPA-Anything",
-                "stars": 213,
+                "stars": 215,
                 "topics": [
                   "ai4science",
                   "biomedical",
@@ -3732,7 +3732,7 @@
                 "open_issues": 359,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15214,
+                "stars": 15215,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:27:17.734Z"
@@ -3858,7 +3858,7 @@
                 "open_issues": 1,
                 "owner": "Gen-Verse",
                 "repo": "JEPA-Anything",
-                "stars": 213,
+                "stars": 215,
                 "topics": [
                   "ai4science",
                   "biomedical",
@@ -4019,11 +4019,11 @@
                 "id": 400501136,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T10:00:40Z",
-                "open_issues": 312,
+                "last_commit": "2026-10-06T10:34:03Z",
+                "open_issues": 311,
                 "owner": "google-deepmind",
                 "repo": "mujoco",
-                "stars": 15479,
+                "stars": 15480,
                 "topics": [
                   "mujoco",
                   "physics",
@@ -4048,7 +4048,7 @@
                 "open_issues": 359,
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15214,
+                "stars": 15215,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:27:17.734Z"
@@ -4069,7 +4069,7 @@
                 "open_issues": 59,
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 11981,
+                "stars": 11982,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:27:17.734Z"
@@ -4090,7 +4090,7 @@
                 "open_issues": 59,
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 11981,
+                "stars": 11982,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:27:17.734Z"
@@ -11062,7 +11062,7 @@
                 "open_issues": 149,
                 "owner": "SWE-agent",
                 "repo": "SWE-agent",
-                "stars": 20494,
+                "stars": 20493,
                 "topics": [
                   "agent",
                   "agent-based-model",
@@ -11091,7 +11091,7 @@
                 "open_issues": 58,
                 "owner": "bytedance",
                 "repo": "UI-TARS",
-                "stars": 11558,
+                "stars": 11559,
                 "topics": [
                   "research"
                 ]
@@ -12977,8 +12977,8 @@
                 "id": 386577599,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-04T20:59:05Z",
-                "open_issues": 107,
+                "last_commit": "2026-10-06T10:27:08Z",
+                "open_issues": 106,
                 "owner": "google-deepmind",
                 "repo": "meltingpot",
                 "stars": 886,
@@ -14665,7 +14665,7 @@
                 "open_issues": 79,
                 "owner": "SakanaAI",
                 "repo": "AI-Scientist-v2",
-                "stars": 7268,
+                "stars": 7269,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:27:17.734Z"
@@ -15282,7 +15282,7 @@
                 "open_issues": 7,
                 "owner": "google-deepmind",
                 "repo": "physics-IQ-benchmark",
-                "stars": 360,
+                "stars": 361,
                 "topics": [
                   "benchmark",
                   "generative-models",
@@ -16224,7 +16224,7 @@
                 "open_issues": 27,
                 "owner": "SWE-bench",
                 "repo": "SWE-bench",
-                "stars": 5980,
+                "stars": 5981,
                 "topics": [
                   "benchmark",
                   "language-model",
@@ -16408,7 +16408,7 @@
                 "open_issues": 14,
                 "owner": "OSU-NLP-Group",
                 "repo": "Mind2Web",
-                "stars": 1031,
+                "stars": 1032,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:27:17.734Z"
@@ -17517,7 +17517,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:15:22.660Z",
+    "last_updated": "2026-10-06T10:42:21.608Z",
     "original_repository_info": {
       "archived": false,
       "description": "Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond",
